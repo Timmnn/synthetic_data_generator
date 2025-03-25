@@ -1,0 +1,13 @@
+{
+  "datasets": [
+    {
+      "name": "AAPL",
+      "dataset_type": "Equities",
+      "daterange": {
+        "from": "2020-12-25T13:45:30",
+        "to": "2023-12-25T13:45:30"
+      },
+      "period": "1h"
+    }
+  ]
+}
